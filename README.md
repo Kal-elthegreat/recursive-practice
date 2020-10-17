@@ -14,6 +14,6 @@ I wanted to keep track of the guesses so I stored each guess in an array (`guess
 
 After running this I noticed some numbers were being called multiple times which is kind of illogical. So I created the second function which removes the guessed number therby shortening the array and getting the answer in less tries.
 
-***Improvements****
+***Improvements***
 1. adding a parameter to allow for the number range to be variable in the first function
 2. make the second function more efficient using either Merge sort or Quick sort
